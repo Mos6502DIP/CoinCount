@@ -1,0 +1,1 @@
+{"peter": {"counted bags": 5, "Correct bags": 0, "Percent": 0, "Total": 7100}, "lois": {"counted bags": 5, "Correct bags": 4, "Percent": 80.0, "Total": 3700}, "joe": {"counted bags": 5, "Correct bags": 5, "Percent": 100.0, "Total": 3500}}
